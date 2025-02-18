@@ -88,10 +88,6 @@
 ### 🛣️ Driving & Navigation  
 - A **GPS/minimap** guides players to the delivery destination.  
 - Different road types: **highways, city streets, countryside roads**.  
-- Follow traffic rules to avoid penalties (speeding fines, accidents).  
-- **Fuel & Maintenance**:  
-  - Trucks **consume fuel** over time, requiring stops at gas stations.  
-  - Truck **damage system**: Crashing too much increases repair costs.  
 
 ### 🏁 Completing the Delivery  
 - Players must carefully **park and unload cargo** at the destination.  
