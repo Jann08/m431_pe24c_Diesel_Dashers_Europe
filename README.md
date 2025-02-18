@@ -46,3 +46,32 @@
 - Debugging & optimization  
 - Final adjustments to UI & gameplay  
 - Presentation & test runs with other players
+
+# Assignment: Diesel Dash Europe - Product Documentation & Presentation
+
+## 1. What?
+- **Product Documentation,Presentation**  
+- Complete documentation of the game project, following the IPERKA method.  
+- Final presentation showcasing the game’s development, features, and gameplay.  
+
+## 2. When?
+- **Start:** [Insert Start Date]  
+- **Stop:** [Insert Deadline or Completion Date]  
+
+## 3. Why? (Context)
+- This project is part of a school assignment, requiring the development of a functional 3D game in Unity.  
+- The documentation ensures structured planning, execution, and evaluation of the project.  
+- The presentation serves to showcase the final product, highlight challenges, and demonstrate learning progress.  
+
+## 4. How? (Requirements)
+- Use the **IPERKA method** to structure the documentation.  
+- Include milestones, development process, challenges, and solutions.  
+- Demonstrate Unity implementation, truck physics, UI design, and mission logic.  
+- Present a **working prototype** of *Diesel Dash Europe* in the final presentation.  
+- Address potential issues and how they were resolved.  
+
+## 5. Who?
+- **Team Members:** Jann Janis  
+- **Supervisors:** Teacher
+- **Target Audience:** Teachers, classmates, and other stakeholders evaluating the project.  
+
