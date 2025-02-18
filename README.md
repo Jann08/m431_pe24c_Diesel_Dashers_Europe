@@ -75,3 +75,37 @@
 - **Supervisors:** Teacher
 - **Target Audience:** Teachers, classmates, and other stakeholders evaluating the project.  
 
+## 🚛 Core Gameplay Loop  
+
+### 📦 Accepting Delivery Missions  
+- Players start at a **truck depot** or **warehouse**.  
+- A **job menue** displays available delivery missions with details like:  
+  - **Destination** (City, countryside, or industrial zone).  
+  - **Cargo type** (Fragile goods, fuel, heavy machinery, etc.).  
+  - **Time limit & payout** (Faster = more money).  
+- After selecting a job, players must **attach the cargo trailer** before hitting the road.  
+
+### 🛣️ Driving & Navigation  
+- A **GPS/minimap** guides players to the delivery destination.  
+- Different road types: **highways, city streets, countryside roads**.  
+- Follow traffic rules to avoid penalties (speeding fines, accidents).  
+- **Fuel & Maintenance**:  
+  - Trucks **consume fuel** over time, requiring stops at gas stations.  
+  - Truck **damage system**: Crashing too much increases repair costs.  
+
+### 🏁 Completing the Delivery  
+- Players must carefully **park and unload cargo** at the destination.  
+- Rewards based on **delivery time, cargo condition, and efficiency**.  
+- Earned money can be used to:  
+  - Upgrade the truck (engine, tires, fuel capacity).  
+  - Customize the truck (paint, lights, exhausts).  
+  - Unlock new **regions and longer routes**.  
+
+---
+
+## 🚀 Additional Features (If Time Allows)  
+- **Multiplayer Mode**: Deliver Cargo together or free roam together.  
+- **Economy System**: Buy new trucks, take higher-paying jobs, or even start a trucking company.  
+- **Radio System**: In-game radio with different stations (rock, pop, news, etc.).
+- **Dynamic Traffic AI**: Players must avoid accidents and follow traffic signals.
+
