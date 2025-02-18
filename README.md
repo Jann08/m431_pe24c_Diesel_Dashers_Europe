@@ -101,8 +101,6 @@
   - Customize the truck (paint, lights, exhausts).  
   - Unlock new **regions and longer routes**.  
 
----
-
 ## 🚀 Additional Features (If Time Allows)  
 - **Multiplayer Mode**: Deliver Cargo together or free roam together.  
 - **Economy System**: Buy new trucks, take higher-paying jobs, or even start a trucking company.  
