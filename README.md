@@ -2,8 +2,8 @@
 
 # What is our Game about?
  
- In Diesl Dashers Europe, you step into the shoes of a professional truck driver tasked with transporting various cargoes trough a foggy mysterious Landscape, steep roads and rough dirt tracks. The objective is to deliver your cargo safely and on time while 
- managing unexpected challanges made by you'r Driving style or by the Terrain.
+ In Diesel Dashers Europe, you step into the shoes of a professional truck driver tasked with transporting various cargoes through a foggy, mysterious landscape, steep roads, and rough dirt tracks. The objective is to deliver your cargo safely and on time while 
+ managing unexpected challenges caused by your driving style or the terrain.
  
 # Basic Features of our Game
 
