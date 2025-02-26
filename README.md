@@ -81,13 +81,7 @@
 - Players start at a **truck depot** or **warehouse**.  
 - A **job menue** displays available delivery missions with details like:  
   - **Destination** (City, countryside, or industrial zone).  
-  - **Cargo type** (Fragile goods, fuel, heavy machinery, etc.).  
-  - **Time limit & payout** (Faster = more money).  
-- After selecting a job, players must **attach the cargo trailer** before hitting the road.  
-
-### 🛣️ Driving & Navigation  
-- A **GPS/minimap** guides players to the delivery destination.  
-- Different road types: **highways, city streets, countryside roads**.  
+- After selecting a job, players must **attach the cargo trailer** before hitting the road.   
 
 ### 🏁 Completing the Delivery  
 - Players must carefully **park and unload cargo** at the destination.  
@@ -98,8 +92,6 @@
   - Unlock new **regions and longer routes**.  
 
 ## 🚀 Additional Features (If Time Allows)  
-- **Multiplayer Mode**: Deliver Cargo together or free roam together.  
-- **Economy System**: Buy new trucks, take higher-paying jobs, or even start a trucking company.  
-- **Radio System**: In-game radio with different stations (rock, pop, news, etc.).
-- **Dynamic Traffic AI**: Players must avoid accidents and follow traffic signals.
+- **Economy System**: Buy new trucks, take higher-paying jobs, or even start a trucking company.
+- **Cargo type** (Fragile goods, fuel, heavy machinery, etc.).  
 
