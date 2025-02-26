@@ -5,12 +5,11 @@
 ✅ **Vehicle Control:** A truck that can be driven using a keyboard or controller.  
 ✅ **Physics & Driving Behavior:** Realistic acceleration, braking, and turning.  
 ✅ **Delivery Missions:** Players pick up cargo and deliver it to the destination.  
-✅ **Minimap/GPS:** A small map displaying the route.  
 ✅ **Time/Point System:** The faster and more precise the delivery, the more points/money.  
 
 ## Extensions (If Time Allows)
 
-🚛 **Gas Stations & Repair Shops:** The truck needs regular refueling and maintenance.  
+🚛 **Gas Stations The truck needs regular refueling.  
 🌦️ **Weather & Day/Night Cycle:** Dynamic environment for more realism.  
 🏙️ **Large Road Network:** Various routes with highways, country roads, etc.  
 🚧 **Challenges:** Traffic jams, breakdowns, and construction sites as obstacles.  
