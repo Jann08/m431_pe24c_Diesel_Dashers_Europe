@@ -9,7 +9,7 @@
 
 ## Extensions (If Time Allows)
 
-🚛 **Gas Stations The truck needs regular refueling.  
+🚛 **Gas Stations** The truck needs regular refueling.  
 🌦️ **Weather & Day/Night Cycle:** Dynamic environment for more realism.  
 🏙️ **Large Road Network:** Various routes with highways, country roads, etc.  
 🚧 **Challenges:** Traffic jams, breakdowns, and construction sites as obstacles.  
