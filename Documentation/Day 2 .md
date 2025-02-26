@@ -20,7 +20,7 @@ That is our IPERKA Timestamp:
 - **Janis** GitHub (Documentation, Organize and Communication)
 - **Jann** Game Dev (Unity, Coding and Communication)
 
- # Special Work
+## Special Work
 
 - If were gonna get Feedback regarding Map / Enviroment, Speed, Steering, Stability or Replayabilty, both of us will be taking part in those *Events*. Since both of us need the Feedback to continue further discussions regarding our Game.
 
@@ -33,7 +33,7 @@ That is our IPERKA Timestamp:
 - Fixxing the Camera.
 - Opzimize the Performance.
 
-  ## Did we manage to Fix something of our Prioritized Goals already?
+## Did we manage to Fix something of our Prioritized Goals already?
 
   Yes indeed.
   
@@ -44,15 +44,16 @@ That is our IPERKA Timestamp:
 - ⚠️ Most of the Clipping on the Truck has been fixxed or Changed. Trees and Building might still have no hitbox or are still partly in the floor.
 - ❌ The Sound of the Truck has not been fixxed yet. We need to check up on the Sound Settings of our Truck Asset.
 
-  ## Basic Scene of our Game
-  We already built our Map on Day 1. As Mentiond above we are still working on Certain Areas to get rid of the Clipping and not hitting Trees when driving into them.
+## Basic Scene of our Game
+
+We already built our Map on Day 1. As Mentiond above we are still working on Certain Areas to get rid of the Clipping and not hitting Trees when driving into them.
 
   **Screenshot will follow**
 
 
-  ## What come up next?
+## What come up next?
 
-  We already have some things set up for the Next week since both of us are willing to Work for the Project outside of the normal School Times.
+We already have some things set up for the Next week since both of us are willing to Work for the Project outside of the normal School Times.
 
- - ⌨️ Steering has Already been set to Keyboard (W A S D).
- - 🛠️ Supension has already been adjusted to make it more Realistic 
+- ⌨️ Steering has Already been set to Keyboard (W A S D).
+- 🛠️ Supension has already been adjusted to make it more Realistic 
