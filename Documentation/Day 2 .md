@@ -1,8 +1,8 @@
-# Start of Day2
+# Start of Day 2
 
 ## For refernce:
 
-That is our IPERKA Timestamp
+That is our IPERKA Timestamp:
 
 **Plan (Day 2)**
 - Task distribution within the team  
@@ -36,7 +36,7 @@ That is our IPERKA Timestamp
 - ✅ Changed the Mass / Mass Center of the Truck, Friction of the Tires, Suspension has been adjusted and Power has been added to the Truck.
 - ✅ Optimized the Performance of the Game. It only renders that what the Player sees.
 - ⚠️ The Camera is not Moving acording to the Trucks speed. Will be looked over at a later point.
-- ⚠️ Most of the Clipping has been fixxed or Changed. Trees might still have no hitbox.
+- ⚠️ Most of the Clipping on the Truck has been fixxed or Changed. Trees and Building might still have no hitbox or are still partly in the floor.
 - ❌ The Sound of the Truck has not been fixxed yet. We need to check up on the Sound Settings of our Truck Asset.
 
   ## Basic Scene of our Game
