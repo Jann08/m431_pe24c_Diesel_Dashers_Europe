@@ -17,8 +17,10 @@
 - Fixxing the Camera.
 - Opzimize the Performance.
 
-  **Did we manage to Fix something already?**
+  ## Did we manage to Fix something already?
+
   Yes indeed.
+  
 - ✅ Fixxed the Truck Physics. No longer rolling over at any given Time when the Truck felt like it.
 - ✅ Changed the Mass / Mass Center of the Truck, Friction of the Tires, Suspension has been adjusted and Power has been added to the Truck.
 - ✅ Optimized the Performance of the Game. It only renders that what the Player sees.
