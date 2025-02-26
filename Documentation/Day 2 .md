@@ -35,13 +35,13 @@ That is our IPERKA Timestamp:
 
 ## Did we manage to Fix something of our Prioritized Goals already?
 
-  Yes indeed.
+Yes indeed.
   
 - ✅ Fixxed the Truck Physics. No longer rolling over at any given Time when the Truck felt like it.
-- ✅ Changed the Mass / Mass Center of the Truck, Friction of the Tires, Suspension has been adjusted and Power has been added to the Truck.
+- ✅ Changed the Mass / Mass Center of the Truck, Friction of the Tires, Suspension / Power has been adjusted has been added to the Truck.
 - ✅ Optimized the Performance of the Game. It only renders that what the Player sees.
 - ⚠️ The Camera is not Moving acording to the Trucks speed. Will be looked over at a later point.
-- ⚠️ Most of the Clipping on the Truck has been fixxed or Changed. Trees and Building might still have no hitbox or are still partly in the floor.
+- ⚠️ Most of the Clipping has been fixxed or changed. Some Trees and Buildings might still have no hitbox or are still partly in the floor.
 - ❌ The Sound of the Truck has not been fixxed yet. We need to check up on the Sound Settings of our Truck Asset.
 
 ## Basic Scene of our Game
