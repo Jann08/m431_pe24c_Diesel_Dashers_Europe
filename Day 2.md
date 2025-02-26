@@ -1,5 +1,15 @@
 # Start of Day2
 
+## For refernce:
+
+That is our IPERKA Timestamp
+
+**Plan (Day 2)**
+- Task distribution within the team  
+- Creation of a prioritized to-do list  
+- Setting up the basic scene structure in Unity
+  
+
 ## Task Distribution
 
 - Since we have have started to develope a Game that needs *Teams* to function, we decided that **Jann** is doing everything related to Unity and Coding since he has more knowledge in that Part then **Janis**.
