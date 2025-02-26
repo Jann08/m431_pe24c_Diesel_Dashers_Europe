@@ -13,7 +13,7 @@ That is our IPERKA Timestamp:
 ## Task Distribution
 
 - Since we have have started to develope a Game that needs *Teams* to function, we decided that **Jann** is doing everything related to Unity and Coding since he has more knowledge in that Part then **Janis**.
-- **Janis** will take care of any GitHub Related work. For Example Creating new Markdowns, Issues, Roadmaps etc.
+- Me **Janis** will take care of any GitHub Related work. For Example Creating new Markdowns, Issues, Roadmaps etc.
 
 - **Janis** GitHub (Documentation, Organize and Communication)
 - **Jann** Game Dev (Unity, Coding and Communication)
