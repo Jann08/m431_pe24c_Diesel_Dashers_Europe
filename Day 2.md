@@ -13,6 +13,7 @@
 
 - First we prioritize on Fixxing our really weird Truck Physics.
 - Fixxing the Snappy Steering and weak Power of the Truck. (Started rolling Backwards after Spawning in)
+- Fixxing the Sound of the Truck. Sounds the Same even at Full Throttle. 
 - Fixxing the Clipping of Streets, Buildings, Trees and Truck.
 - Fixxing the Camera.
 - Opzimize the Performance.
@@ -26,8 +27,17 @@
 - ✅ Optimized the Performance of the Game. It only renders that what the Player sees.
 - ⚠️ The Camera is not Moving acording to the Trucks speed. Will be looked over at a later point.
 - ⚠️ Most of the Clipping has been fixxed or Changed. Trees might still have no hitbox.
+- ❌ The Sound of the Truck has not been fixxed yet. We need to check up on the Sound Settings of our Truck Asset.
 
   ## Basic Scene of our Game
   We already built our Map on Day 1. As Mentiond above we are still working on Certain Areas to get rid of the Clipping and not hitting Trees when driving into them.
 
   **Screenshot will follow**
+
+
+  ## What come up next?
+
+  We already have some things set up for the Next week since both of us are willing to Work for the Project outside of the normal School Times.
+
+ - ⌨️ Steering has Already been set to Keyboard (W A S D).
+ - 🛠️ Supension has already been adjusted to make it more Realistic 
