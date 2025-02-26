@@ -28,7 +28,7 @@ That is our IPERKA Timestamp
 - Fixxing the Camera.
 - Opzimize the Performance.
 
-  ## Did we manage to Fix something already?
+  ## Did we manage to Fix something of our Prioritized Goals already?
 
   Yes indeed.
   
