@@ -26,10 +26,10 @@
 - Research on vehicle physics in Unity  
 - Creation of a rough game design document  
 
-## 2. **Plan (Day 2)**
+[Plan Day 2](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/01_Documentation/Day%202%20%7C%20Week%202.md)
 - Task distribution within the team  
 - Creation of a prioritized to-do list  
-- Setting up the basic scene structure in Unity  
+- Setting up the basic scene structure in Unity
 
 ## 3. **Decide (Day 3-4)**
 - Selection of the truck control method (keyboard/controller)  
