@@ -7,17 +7,15 @@
  
 # Basic Features of our Game
 
-✅ **Vehicle Control:** A truck that can be driven using a keyboard or controller.  
-✅ **Physics & Driving Behavior:** Realistic acceleration, braking, and turning.  
-✅ **Delivery Missions:** Players pick up cargo and deliver it to the destination.  
-✅ **Time/Point System:** The faster and more precise the delivery, the more points/money.  
+- ✅ Vehicle Control: A truck that can be driven using a keyboard or controller.  
+- ✅ Physics & Driving Behavior: Realistic acceleration, braking, and turning.  
+- ✅ Delivery Missions: Players pick up cargo and deliver it to the destination.  
+- ✅ Time/Point System: The faster and more precise the delivery, the more points/money.  
 
 ## Extensions (If Time Allows)
 
-🚛 **Gas Stations** The truck needs regular refueling.  
-🌦️ **Weather & Day/Night Cycle:** Dynamic environment for more realism.  
-🏙️ **Large Road Network:** Various routes with highways, country roads, etc.  
-🚧 **Challenges:** Traffic jams, breakdowns, and construction sites as obstacles.  
+- 🚛 Gas Stations The truck needs regular refueling.   
+- 🏙️ Large Road Network: Various routes with highways, country roads, etc. 
 
 # Assignment: Diesel Dash Europe - Product Documentation & Presentation
 
