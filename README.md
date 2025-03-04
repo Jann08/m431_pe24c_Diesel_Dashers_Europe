@@ -19,38 +19,6 @@
 🏙️ **Large Road Network:** Various routes with highways, country roads, etc.  
 🚧 **Challenges:** Traffic jams, breakdowns, and construction sites as obstacles.  
 
-# IPERKA Structure for the 10-Day Plan
-
-## 1. **Inform (Day 1)**
-- Introduction to Unity & C#  
-- Research on vehicle physics in Unity  
-- Creation of a rough game design document  
-
-[Plan Day 2](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/01_Documentation/Day%202%20%7C%20Week%202.md)
-- Task distribution within the team  
-- Creation of a prioritized to-do list  
-- Setting up the basic scene structure in Unity
-
-## 3. **Decide (Day 3-4)**
-- Selection of the truck control method (keyboard/controller)  
-- Implementation of Rigidbody physics for realistic driving behavior  
-- Initial testing of driving behavior and collisions  
-
-## 4. **Implement (Day 5-6)**
-- Development of delivery missions and checkpoints  
-- Programming mission logic (starting point, destination, time limit)  
-- Conducting initial test drives  
-
-## 5. **Control (Day 7-8)**
-- Implementation of a minimap & UI elements for missions  
-- Functional testing of all features so far  
-- Adjusting vehicle physics and game balance  
-
-## 6. **Evaluate (Day 9-10)**
-- Debugging & optimization  
-- Final adjustments to UI & gameplay  
-- Presentation & test runs with other players
-
 # Assignment: Diesel Dash Europe - Product Documentation & Presentation
 
 ## 1. What?
