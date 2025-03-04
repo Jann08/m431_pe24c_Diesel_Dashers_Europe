@@ -17,33 +17,23 @@
 - 🚛 Gas Stations The truck needs regular refueling.   
 - 🏙️ Large Road Network: Various routes with highways, country roads, etc. 
 
-# Assignment: Diesel Dash Europe - Product Documentation & Presentation
+## When are we planning on doing all that?
+- **Start:** [Week 1]  
+- **Stop:** [At the last Date thats Possible]  
 
-## 1. What?
-- **Product Documentation,Presentation**  
-- Complete documentation of the game project, following the IPERKA method.  
-- Final presentation showcasing the game’s development, features, and gameplay.  
+## 3. Why do we want to make a game like this? 
+- We want to challange ourselfs to finde out how hard it is to make a 3D Game.
 
-## 2. When?
-- **Start:** [Insert Start Date]  
-- **Stop:** [Insert Deadline or Completion Date]  
-
-## 3. Why? (Context)
-- This project is part of a school assignment, requiring the development of a functional 3D game in Unity.  
-- The documentation ensures structured planning, execution, and evaluation of the project.  
-- The presentation serves to showcase the final product, highlight challenges, and demonstrate learning progress.  
-
-## 4. How? (Requirements)
+## 4. How are we planning on doing this?
 - Use the **IPERKA method** to structure the documentation.  
-- Include milestones, development process, challenges, and solutions.  
-- Demonstrate Unity implementation, truck physics, UI design, and mission logic.  
+- Include milestones, development process, challenges, and solutions.    
 - Present a **working prototype** of *Diesel Dash Europe* in the final presentation.  
 - Address potential issues and how they were resolved.  
 
 ## 5. Who?
 - **Team Members:** Jann Janis  
 - **Supervisors:** Teacher
-- **Target Audience:** Teachers, classmates, and other stakeholders evaluating the project.  
+- **Target Audience:** Teachers and classmates.  
 
 ## 🚛 Core Gameplay Loop  
 
