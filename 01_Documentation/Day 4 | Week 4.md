@@ -1,7 +1,7 @@
 # Day 4 / Week 4
 
-## Start of The Day
-The first thing we did was starting with our Ressource Plan for out Time management. I "Janis" started with the Time-Table.
+## Start of The Day (Janis)
+The first thing i did was starting with our Ressource Plan for out Time management. I "Janis" started with the Time-Table.
 
 **Excel Tablesheet** 
 - It didnt quit work like i wanted it work so i did it in a .md Version in GitHub.
