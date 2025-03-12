@@ -52,6 +52,8 @@ We already built our Map on Day 1. As Mentiond above we are still working on Cer
 
   [Screenshot](../99_Media/Day_2_Build.png)
 
+   [Screenshot](../99_Media/Day_2_UI.png)
+
 
 ## What come up next?
 
