@@ -50,6 +50,8 @@ We already built our Map on Day 1. As Mentiond above we are still working on Cer
 
   **Screenshot will follow**
 
+  [Screenshot](../99_Media/Day_2_Build.png)
+
 
 ## What come up next?
 
