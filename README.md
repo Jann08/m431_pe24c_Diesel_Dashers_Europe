@@ -19,7 +19,7 @@
 
 ## When are we planning on doing all that?
 - **Start:** [Week 1]  
-- **Stop:** [At the last Date thats Possible]  
+- **Finish:** [29.05]  
 
 ## 3. Why do we want to make a game like this? 
 - We want to challange ourselfs to finde out how hard it is to make a 3D Game.
