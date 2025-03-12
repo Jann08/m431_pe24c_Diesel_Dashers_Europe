@@ -17,8 +17,8 @@ That is our IPERKA Timestamp:
 
 ## Who does What? 
 
-- **Janis** GitHub (Documentation, Organize and Communication)
-- **Jann** Game Dev (Unity, Coding and Communication)
+- **Janis** GitHub (Documentation what happend, Organize)
+- **Jann** Game Dev (Unity, Coding Documentation)
 
 ## Special Work
 
