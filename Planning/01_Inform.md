@@ -16,4 +16,4 @@ After we had our very rudimentary Mindmap we started Brainstorming what we wante
 - How should the Map look like?
   - Russian Type, American Type, European or Asian Type?
 - What steering Inputs should we use?
-  - Gamepad or Keyboard
+  - Gamepad or Keyboard?
