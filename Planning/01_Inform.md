@@ -8,3 +8,9 @@ What kind of Game should it be? Should it be a JnR Game (Jump and Run), A shooti
 
 [Screenshot](./99_Media/Mindmap_Project_T.jpg)
 
+## Brainstorming
+
+After we had our very rudimentary Mindmap we started Brainstorming what we wanted to do. For Example:
+- What should it be? (Car Game or something different like a Trucking Game)
+- How should the Map look like? (Russian Type, American Type, European or Asian Type?)
+- What steering Inputs should we use? (Gamepad or Keyboard)
