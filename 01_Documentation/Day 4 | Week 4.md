@@ -10,4 +10,5 @@ The first thing we did was starting with our Ressource Plan for out Time managem
 [Screenshot](/99_Media/.md)
 
 **Second Part of the Day** 
+
 While doing all that Jann started making a Trailer for our Truck in the Game
