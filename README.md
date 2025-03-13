@@ -56,6 +56,6 @@
 - **Cargo type** (Fragile goods, fuel, heavy machinery, etc.).
 
 ## Pictures
-![Alternativtext](99_Media/Day_2_Building.png)
+
 
 
