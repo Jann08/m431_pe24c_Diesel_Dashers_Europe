@@ -53,5 +53,9 @@
 
 ## 🚀 Additional Features (If Time Allows)  
 - **Economy System**: Buy new trucks, take higher-paying jobs, or even start a trucking company.
-- **Cargo type** (Fragile goods, fuel, heavy machinery, etc.).  
+- **Cargo type** (Fragile goods, fuel, heavy machinery, etc.).
+
+## Pictures
+![Alternativtext](99_Media/Day_2_Building.png)
+
 
