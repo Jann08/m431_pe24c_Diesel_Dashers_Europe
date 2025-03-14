@@ -1,4 +1,3 @@
-# m431_pe24c_Diesel Dashers Europe
 
 # What is our Game about?
  
