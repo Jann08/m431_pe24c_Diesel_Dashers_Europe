@@ -1,19 +1,31 @@
-# 1. **Inform (Day 1)**
+# m431_pe24c_Diesel Dashers Europe
 
-## First things first
+# What is our Game about?
+ 
+ In Diesel Dashers Europe, you step into the shoes of a professional truck driver tasked with transporting various cargoes through a foggy, mysterious landscape, steep roads, and rough dirt tracks. The objective is to deliver your cargo safely and on time while 
+ managing unexpected challenges caused by your driving style or the terrain.
+ 
+# Basic Features of our Game
 
-First we thinked about a Topic we could choose that is a Project but is also IT Related. After some talking we settled on the Topic of making a Game.
-After all that we Brainstormed about what the game should be... Should it be a 2D Game or a 3D Game.
-What kind of Game should it be? Should it be a JnR Game (Jump and Run), A shooting Game or a Racing / Car Game <-- Thats what we choose.
+- ✅ Vehicle Control: A truck that can be driven using a keyboard or controller.  
+- ✅ Physics & Driving Behavior: Realistic acceleration, braking, and turning.  
+- ✅ Drivable Stuff: Functional Trailer and Truck.
+- ✅ Time/Point System: The faster and more precise the delivery, the more points/money.  
 
-[Screenshot](./99_Media/Mindmap_Project_T.jpg)
+## Extensions (If Time Allows)
 
-## Brainstorming
+- 🚛 Gas Stations The truck needs regular refueling.   
+- 🏙️ Large Road Network: Various routes with highways, country roads, etc. 
 
-After we had our very rudimentary Mindmap we started Brainstorming what we wanted to do. For Example:
-- What should it be?
-  - Car Game or something different like a Trucking Game
-- How should the Map look like?
-  - Russian Type, American Type, European or Asian Type?
-- What steering Inputs should we use?
-  - Gamepad or Keyboard?
+## 🚛 Core Gameplay Loop  
+
+### Drive around :) 
+
+- Grab yourself a Trailer and drive around with it.
+
+
+## Things to Remeber
+- Keep it simple
+- Test everything well
+- Write good documentation
+- Add tbz-neil-devlin to GitHub
