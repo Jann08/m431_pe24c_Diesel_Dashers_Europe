@@ -10,7 +10,6 @@
  * ✅ Time/Point System: The faster and more precise the delivery, the more points/money.  
 
 ## What will be delievered?
-* Code
 * Documentation
 * Presentation
  
