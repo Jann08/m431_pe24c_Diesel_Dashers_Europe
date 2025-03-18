@@ -1,5 +1,5 @@
 
-## The Product
+# The Product
 ### Diesel Dashers Europe
 * In Diesel Dashers Europe, you step into the shoes of a professional truck driver tasked with transporting various cargoes through a foggy, mysterious landscape, steep roads, and rough dirt tracks. The objective is to deliver your cargo safely and on time while managing unexpected challenges caused by your driving style or the terrain.
 
@@ -26,6 +26,3 @@
   * Tasks: Manage GitHub
 * Jann Neururer (Creator/Main Dev)
   * Tasks: Create the Game and realizing our Goals.
-
-## StakeHolder
-* Neil Devlin
