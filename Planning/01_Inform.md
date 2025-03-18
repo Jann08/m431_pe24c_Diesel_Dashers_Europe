@@ -22,7 +22,8 @@
 * TBD Present the Assignment
 
 ## Team
-* Janis Memmer (GitHub Guy)
+* Janis Memmer (GitHub Guy/Coordinator)
+  * Tasks: Manage GitHub
 * Jann Neururer (Creator/Main Dev)
   * Tasks: Create the Game and realizing our Goals.
 
