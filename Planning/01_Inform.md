@@ -1,30 +1,30 @@
 
-# What is our Game about?
+## The Product
+### Diesel Dashers Europe
+* In Diesel Dashers Europe, you step into the shoes of a professional truck driver tasked with transporting various cargoes through a foggy, mysterious landscape, steep roads, and rough dirt tracks. The objective is to deliver your cargo safely and on time while managing unexpected challenges caused by your driving style or the terrain.
+
+### Features
+ * ✅ Vehicle Control: A truck that can be driven using a keyboard or controller.
+ * ✅ Physics & Driving Behavior: Realistic acceleration, braking, and turning.
+ * ✅ Delivery Missions: Players pick up cargo and deliver it to the destination.
+ * ✅ Time/Point System: The faster and more precise the delivery, the more points/money.  
+
+## What will be delievered?
+* Code
+* Documentation
+* Presentation
  
- In Diesel Dashers Europe, you step into the shoes of a professional truck driver tasked with transporting various cargoes through a foggy, mysterious landscape, steep roads, and rough dirt tracks. The objective is to deliver your cargo safely and on time while 
- managing unexpected challenges caused by your driving style or the terrain.
- 
-# Basic Features of our Game
+## Important Dates
+* 25.02.2025 Receive approval for the product
+* 04.03-01.04.2025 IPERKA
+* 08.04.2025 Testing phase & bug fixing
+* TBD Hand in the Assignment
+* TBD Present the Assignment
 
-- ✅ Vehicle Control: A truck that can be driven using a keyboard or controller.  
-- ✅ Physics & Driving Behavior: Realistic acceleration, braking, and turning.  
-- ✅ Drivable Stuff: Functional Trailer and Truck.
-- ✅ Time/Point System: The faster and more precise the delivery, the more points/money.  
+## Team
+* Janis Memmer (GitHub Guy)
+* Jann Neururer (Creator/Main Dev)
+  * Tasks: Create the Game and realizing our Goals.
 
-## Extensions (If Time Allows)
-
-- 🚛 Gas Stations The truck needs regular refueling.   
-- 🏙️ Large Road Network: Various routes with highways, country roads, etc. 
-
-## 🚛 Core Gameplay Loop  
-
-### Drive around :) 
-
-- Grab yourself a Trailer and drive around with it.
-
-
-## Things to Remeber
-- Keep it simple
-- Test everything well
-- Write good documentation
-- Add tbz-neil-devlin to GitHub
+## StakeHolder
+* Neil Devlin
