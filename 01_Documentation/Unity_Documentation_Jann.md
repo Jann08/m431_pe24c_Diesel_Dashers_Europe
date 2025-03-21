@@ -3,7 +3,6 @@
 ### 🔧 **1. Gear System with Sound**
 - Multiple **gears** affecting speed and acceleration.
 - Gear shifts are accompanied by **different engine sounds**.
-- Implemented with **physics-based drivetrain** and **audio scripting**.
  
 **Technical Details:**
 - `Rigidbody` is used for truck movement.
@@ -16,10 +15,6 @@
 - The truck consumes **fuel**, depending on speed and distance traveled.
 - Gas stations allow **refueling**, and the UI displays the current fuel level.
 - If the tank is empty, the truck **cannot drive anymore**.
- 
-**Technical Details:**
-- `float fuelLevel` – Variable for fuel amount.
-- Gas station trigger (`OnTriggerEnter`) with UI prompt for refueling.
  
 ---
  
@@ -48,7 +43,6 @@
 ## 📌 Future Improvements & To-Do
 - 🛞 **Better trailer system** (Configurable Joint for more stable connection).
 - 🛠 **Improved driving physics** (weight adjustments, realistic suspension system).
-- 🌍 **New maps & routes** (more cities & dynamic road conditions).
  
 ---
  
