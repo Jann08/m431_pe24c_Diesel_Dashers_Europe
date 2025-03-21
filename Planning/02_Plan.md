@@ -10,7 +10,7 @@ We had to find out what we want to do
 
 
 Thats our Brainstorming map
-[Screenshot](../99_Media/Mindmap_Project_T.jpg)
+![Screenshot](../99_Media/Mindmap_Project_T.jpg)
 
  ## Resource Plan (Time)
 
