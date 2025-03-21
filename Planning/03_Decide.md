@@ -1,5 +1,5 @@
 # Decide
-## How I made decisions
+## How we made decisions
 * Since we are doing this project as a team of two, We are able to discuss our decisions togehter.
 
 ## Decision log
