@@ -4,7 +4,7 @@
 
 ## Decision log
 * Decision: Using Unity over other Programms like Unreal Engine or "Scratch"
-  * Reaso.: We are using Unity because Jann already has some kind of experience in Unity so its abit easier for us
+  * Reason: We are using Unity because Jann already has some kind of experience in Unity so its abit easier for us
   * Date: 04.03.2025
 
 * Decision: Having a Truck as a Vehicle over a Car
@@ -12,7 +12,7 @@
   * Date: 04.03.2025
  
 * Decision: Using Occlusion Culling for our Game
-  * Reaso.: Since we already started having extreme Performance problems we decided to use "Occlusion Culling"
+  * Reason: Since we already started having extreme Performance problems we decided to use "Occlusion Culling"
   * Date: 04.03.2025
 
 * Decision: Having good Physics
