@@ -10,6 +10,10 @@
 * Decision: Having a Truck as a Vehicle over a Car
   * Reason: We felt like that every Game that has a Vehicle is mostly a Car game so we wanted to switch things up
   * Date: 04.03.2025
+ 
+* Decision: Using Occlusion Culling for our Game
+  * Reaso.: Since we already started having extreme Performance problems we decided to use "Occlusion Culling"
+  * Date: 04.03.2025
 
 * Decision: Having good Physics
   * Reason: We wanted that our Game feels authentic to reallife in a small Way so we added a bit of Suspension physics
