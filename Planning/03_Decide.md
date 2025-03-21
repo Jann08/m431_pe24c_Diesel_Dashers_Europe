@@ -26,3 +26,7 @@
 * Decision: Adding fog onto the map
   * Reason: By adding fog to the Map, you can not see that new Stuff is rendering in
   * Date: 11.03.2025
+
+
+## Glossar
+**Occlusion Culling** = Only showing objects that the player can see.
