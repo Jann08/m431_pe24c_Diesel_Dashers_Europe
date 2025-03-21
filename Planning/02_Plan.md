@@ -17,4 +17,4 @@ Thats our Brainstorming map
 * We created a resource plan to track out time
 * We put our Avaible hours into our list. They are mostly the Same all the time
   [Time Schedule](../Planning/Time_Schedule.md)
-* We have a total of 82 Hours wich doesnt sound much to be fair but its enough
+* We have a total of 82 Hours wich doesnt sound much to be fair but its enough for a Team of 2
