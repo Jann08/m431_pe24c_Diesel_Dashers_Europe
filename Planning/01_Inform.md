@@ -32,9 +32,9 @@ To make the game, I had to gather different kinds of information:
 ### 🎮 Games for Ideas
 Several truck simulators and racing games inspired me:
 
-- **Euro Truck Simulator 2** – Realistic truck handling.
-- **SnowRunner** – Detailed terrain physics.
-- **BeamNG.drive** – Realistic driving mechanics.
+- [Euro Truck Simulator 2](https://eurotrucksimulator2.de/) – Realistic truck handling.
+- [SnowRunner](https://www.focus-entmt.com/en/games/snowrunner) – Detailed terrain physics.
+- [BeamNG.drive](https://www.beamng.com/game/) – Realistic driving mechanics.
 
 ### 🔎 Research & Development
 To create *Diesel Dash Europe*, I concentrated on:
