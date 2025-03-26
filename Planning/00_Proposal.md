@@ -25,3 +25,18 @@
   * Tasks: Manage GitHub
 * Jann Neururer (Creator/Main Dev)
   * Tasks: Create the Game and realizing our Goals.
+
+ ## Documentation
+* The whole document can be found in the repository or by clicking the links below
+ * [Inform]
+ * [Plan]
+ * [Decide]
+ * Realize
+   * [Design]
+   * [Setup]
+   * [Implement]
+ * [Control]
+ * [Assess]
+
+
+
