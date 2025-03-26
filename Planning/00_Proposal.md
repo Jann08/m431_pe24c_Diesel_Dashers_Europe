@@ -31,12 +31,14 @@
  * [Inform]
  * [Plan]
  * [Decide]
- * Realize
-   * [Design]
-   * [Setup]
-   * [Implement]
+ * [Realize]
  * [Control]
  * [Assess]
 
 
-
+[Inform]()
+[Plan]()
+[Decide]()
+[Realize]()
+[Controle]()
+[Asses]()
