@@ -25,6 +25,10 @@
   * Tasks: Manage GitHub
 * Jann Neururer (Creator/Main Dev)
   * Tasks: Create the Game and realizing our Goals.
+ 
+## Smart Goals
+* Having a functional Speedometer
+* Driving around without flipping
 
  ## Documentation
 * The whole document can be found in the repository or by clicking the links below
