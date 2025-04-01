@@ -21,11 +21,9 @@ To make the game, I had to gather different kinds of information:
 - **Optimization Methods**: Learning techniques like **Occlusion Culling** and **LOD** to improve performance.
 
 ### 🛠 Tools I Used
-- 🎮 **Unity** (the game engine)
-- 💻 **Visual Studio 2022** (for coding and fixing issues)
-- 🎨 **Paint.net** (for textures and UI design)
-- 🐙 **GitHub Desktop** (for version control)
-- 📸 **ShareX** (for taking screenshots and documentation)
+- 🎮 **[Unity](https://unity.com/de)** (the game engine)
+- 💻 **[Visual Studio 2022](https://code.visualstudio.com/)** (for coding and fixing issues)
+- 🎨 **[Paint.net](https://apps.microsoft.com/detail/9pcfs5b6t72h?hl=de-DE&gl=CH)** (for textures and UI design)
 
 ## 3. Finding Inspiration
 
