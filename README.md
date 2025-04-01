@@ -16,7 +16,7 @@
 
 * [Download:]
   
-* [Video:]
+* [Video](https://youtu.be/WJz_pgYG_gU)
 
 * [Pictures:]
 
