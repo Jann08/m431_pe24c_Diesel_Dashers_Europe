@@ -79,7 +79,12 @@ Unity is the game engine for *Diesel Dash Europe*. It provides tools for **physi
 - Used to **take screenshots and document progress**.
 - Useful for making **visual documentation**.
 
-## 6. Glossary
+## 6. Smart Goals
+
+- Having a functional Speedometer
+- Driving around without flipping
+
+## 7. Glossary
 
 - **LOD** = Level of Detail (making distant objects less detailed for better performance).
 - **FPS** = Frames Per Second (how well the game performs).
