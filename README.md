@@ -14,20 +14,26 @@
 
 # Download and Media
 
-- Download:
+* [Download:]
   
-- Video:
+* [Video:]
 
-- Pictures:
+* [Pictures:]
 
 
 
 # Source Code
 
--
+*
 
 # IPERKA Structure
 
-
-
+* The whole document can be found in the repository or by clicking the links below
+  * [Inform](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/01_Inform.md)
+  * [Plan](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/02_Plan.md)
+  * [Decide](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/03_Decide.md)
+  * [Realize](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/04_Realize)
+  * [Controle](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/05_Control)
+  * [Asses](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/06_Assess)
+  * [Time Schedule](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/Time_Schedule.md)
 
