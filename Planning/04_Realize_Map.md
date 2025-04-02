@@ -18,11 +18,11 @@ With the “EasyRoads” tool, I was able to draw roads directly in the scene. T
 **Asset:** [EasyRoads3D Free v3](https://assetstore.unity.com/packages/3d/characters/easyroads3d-free-v3-987)
 
 * Here is some of the Road Visable:
-[Screenshot](../99_Media/Day_2_UI.jpg)
+![Screenshot](../99_Media/Day_2_UI.jpg)
  
 ## 5. Building the gas station  
 I used small models from a countryside gas station asset to build a realistic fuel station.  
 **Asset:** [Countryside Gas Station](https://assetstore.unity.com/packages/3d/environments/countryside-gas-station-132485)
 
 * Here you can see the Gas Station wich is also the Starting point.
-[Screenshot](../99_Media/Day_2_Build.jpg)
+![Screenshot](../99_Media/Day_2_Build.jpg)
