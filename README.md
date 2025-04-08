@@ -33,9 +33,9 @@
   * [Plan](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/02_Plan.md)
   * [Decide](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/03_Decide.md)
   * Realize
-    * [Realize Map/World](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/04_Realize_Map)
-    * [Realize Truck](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/04_Realize_Truck)
-  * [Controle](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/05_Control)
-  * [Asses](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/06_Assess)
+    * [Realize Map/World](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/04_Realize_Map.md)
+    * [Realize Truck](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/04_Realize_Truck.md)
+  * [Controle](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/05_Control.md)
+  * [Asses](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/06_Assess.md)
   * [Time Schedule](https://github.com/Jann08/m431_pe24c_Diesel_Dashers_Europe/blob/main/Planning/Time_Schedule.md)
 
