@@ -17,7 +17,7 @@ To make the game, I had to gather different kinds of information:
 
 ### 📚 Knowledge to Gain
 - **Game Development**: Learning about Unity’s physics and scripting with C#.
-- **Truck Simulation**: Researching how real trucks work.
+- **Truck Simulation**: Researching how trucks work in different games.
 - **Optimization Methods**: Learning techniques like **Occlusion Culling** and **LOD** to improve performance.
 
 ### 🛠 Tools I Used
@@ -47,12 +47,9 @@ I categorized the requirements into **functional** and **non-functional**:
 ### ✅ Functional Requirements
 - The truck must have a **working gear system**.
 - A **speedometer and gear indicator** must show on the screen.
-- The truck must **use fuel** based on distance and speed.
-- **Gas stations should allow refueling**.
 - The game must run **smoothly** and be optimized.
 
 ### ⚙️ Non-Functional Requirements
-- The game must feel **realistic and immersive**.
 - Performance should stay **above 60 FPS** on average computers.
 - The UI should be **simple but informative**.
 
