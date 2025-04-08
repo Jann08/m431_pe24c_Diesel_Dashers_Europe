@@ -1,7 +1,7 @@
 # Inform – Diesel Dash Europe
 
 ## 1. Gathering Ideas
-*Diesel Dash Europe* started because I love trucks and driving games. My goal is to make a **realistic truck simulation** with features like **changing gears, fuel use, and performance tuning**. I chose Unity to develop it because I have experience with it and there are many helpful resources.
+*Diesel Dash Europe* started because I adriving games. My goal is to make a **"Cool" truck simulation** with features like **changing gears and performance tuning**. We chose Unity to develop it because Jann has experience with it and there are many helpful resources.
 
 ## 2. Information Needed
 To make the game, I had to gather different kinds of information:
