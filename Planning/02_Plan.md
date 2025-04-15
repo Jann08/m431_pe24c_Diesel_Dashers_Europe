@@ -21,3 +21,12 @@ Thats our Brainstorming map
 
 ## Resource Plan (Who does What?)
 
+![Screenshot](../99_Media/Bild_8.jpg)
+
+## Task List (Issues)
+
+![Screenshot](../99_Media/Task_List.jpg)
+
+## Task List (Milestones)
+
+![Screenshot](../99_Media/Milestones.jpg)
