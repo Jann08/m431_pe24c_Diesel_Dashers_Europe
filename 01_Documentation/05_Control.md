@@ -17,6 +17,7 @@
 | Speedomter | ✅ Passed | Shows the Speed and is correct |
 | Distance Show thing | ✅ Passed | Showes the exact distance to the Endpoint |
 | Center of Gravity of our Truck | ❌ Failed | Flipped upside down |
+| Stable FPS | ✅ Passed | Very Stable |
 
 ## Issue
 
