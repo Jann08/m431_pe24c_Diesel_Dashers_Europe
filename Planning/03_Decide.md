@@ -27,6 +27,19 @@
   * Reason: By adding fog to the Map, you can not see that new Stuff is rendering in
   * Date: 11.03.2025
 
+ ##Decision Matrix
+ 
+ | **Kriteria**                 | **Unity** | **Unreal Engine** | **Godot** | **Custom Engine** |
+|------------------------------|:---------:|:-----------------:|:--------:|:-----------------:|
+| Ease of Use                  |     5     |         3         |    4     |         1         |
+| Performance                  |     4     |         5         |    3     |         5         |
+| Physics & Vehicle Control    |     4     |         5         |    3     |         5         |
+| Multiplayer Support          |     4     |         4         |    2     |         3         |
+| Asset Store / Plugins        |     5     |         4         |    3     |         1         |
+| Learning Curve               |     4     |         2         |    5     |         1         |
+| Community Support            |     5     |         4         |    4     |         1         |
+| Platform Export Options      |     5     |         5         |    4     |         2         |
+
 
 ## Glossar
 **Occlusion Culling** = Only showing objects that the player can see.
