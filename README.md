@@ -20,6 +20,18 @@
 
 * [Pictures:]
 
+# 🖥️ Minimum System Requirements
+
+> The following specifications are the minimum system requirements to run the application.
+
+- **Requires**: 64-bit processor and operating system  
+- **Operating System**: Windows 11 (64-bit)  
+- **Processor**: Intel Core i7-13700KF  
+- **Memory**: 8 GB RAM  
+- **Graphics**: Intel IRIS   
+- **Storage**: 4 GB available space  
+- **Sound Card**: DirectX 11 compatible sound device  
+
 
 
 # Source Code
