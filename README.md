@@ -13,12 +13,9 @@
 - ✅ Time/Point System: The faster and more precise the delivery, the more points/money.  
 
 # Download and Media
-
-* [Download:]
   
 * [Video](https://youtu.be/WJz_pgYG_gU)
-
-* [Pictures:]
+* 
 
 # 🖥️ Minimum System Requirements
 
